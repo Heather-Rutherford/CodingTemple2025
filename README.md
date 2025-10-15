@@ -3,7 +3,7 @@
 
 This project satisfies the requirements for Lesson 1 in the HTML module. This project was created by Heather Rutherford and is part of a journey to refresh and enhance web development skills. The site introduces me (Heather), her professional background, interests, and favorite things.
 
-The project contains two main pages:
+The project contains four main pages:
 
 index.html – The main webpage. The page satifies the required part of the Lesson 1 Activity.
 
@@ -118,7 +118,6 @@ README.md
 A description of the project.
 
 Lesson 1.pdf
-
 Answers to the theoretical part of the activity.
 
 🧑‍💻 Author
