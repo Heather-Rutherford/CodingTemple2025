@@ -9,6 +9,8 @@ index.html – The main webpage. The page satifies the required part of the Less
 
 bonus.html – This is a copy of index.html that has been enhanced with navigation, sections, and styling improvements. This page satisfies the bonus activities in the Lesson 1 Activity.
 
+Lesson 1.pdf - This is a copy of my answers to the questions for the theoretical portion of the Lesson 1 Activity
+
 📋 Table of Contents
 
 Introduction
@@ -33,6 +35,8 @@ Author
 my-first-webpage/
 ├── index.html # Main personal webpage
 └── bonus.html # Expanded webpage with navigation and sections
+└── README.md # An overview of the project and its files.
+└── Lesson 1.pdf # Answers to the theoretical portion of the activity.
 
 ✨ Features
 
@@ -67,6 +71,10 @@ Open index.html to view the basic version of the webpage.
 Open bonus.html for an enhanced experience with navigation and styled sections.
 
 Use the navigation links in bonus.html to jump between different content areas such as:
+
+Open Lesson 1.pdf to view the answers to the theoretical part of the activity.
+
+Open README.md for a description of the project.
 
 Home
 
@@ -104,6 +112,14 @@ Improved text organization and color scheme
 Additional “Articles” and “Footer” sections
 
 Accessibility improvements (id attributes, alt text)
+
+README.md
+
+A description of the project.
+
+Lesson 1.pdf
+
+Answers to the theoretical part of the activity.
 
 🧑‍💻 Author
 
