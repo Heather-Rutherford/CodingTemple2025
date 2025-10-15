@@ -11,6 +11,8 @@ bonus.html – This is a copy of index.html that has been enhanced with navigati
 
 Lesson 1.pdf - This is a copy of my answers to the questions for the theoretical portion of the Lesson 1 Activity
 
+README.md - This file contains a description of the project.
+
 📋 Table of Contents
 
 Introduction
