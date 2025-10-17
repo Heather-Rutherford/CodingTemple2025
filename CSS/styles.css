@@ -41,3 +41,132 @@ body {
 .fancy-button:hover {
   background-color: green;
 }
+/* Bonus Material */
+/* Controls the style of the outside div.*/
+.ui-section {
+  background-color: whitesmoke;
+  padding: 10px;
+  border-color: black;
+  border-style: solid;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+/* Controls the style of the buttons.*/
+.btn {
+  border: 1px solid lightgray;
+  font-size: 20px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 3px;
+}
+.btn-primary {
+  border: 1px solid grey;
+  font-size: 15px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+}
+.btn-secondary {
+  border: 1px solid blue;
+  font-size: 15px;
+  background-color: lightblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+}
+/* Controls the style of the buttons.*/
+.btn {
+  border: 1px solid lightgray;
+  font-size: 20px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 3px;
+}
+.btn-primary {
+  border: 1px solid grey;
+  font-size: 15px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+}
+.btn-secondary {
+  border: 1px solid blue;
+  font-size: 15px;
+  background-color: lightblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 5px;
+}
+/* Controls the style of the badges.*/
+.alert {
+  border: 1px solid black;
+  font-size: 15px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 0px;
+  padding: 5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.alert-success {
+  background-color: lightgreen;
+  width: 300px;
+}
+.alert-warning {
+  background-color: lightcoral;
+  width: 300px;
+}
+/* Controls the style of the badges.*/
+.badge {
+  border: 1px solid black;
+  font-size: 15px;
+  background-color: lightgrey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 0px;
+  padding: 5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.badge-new {
+  font-weight: 700;
+  border: 3px solid black;
+  background-color: lavender;
+  background-color: lightskyblue;
+  color: rgb(22, 109, 186);
+  border-radius: 15px;
+}
+.badge-info {
+  font-weight: 700;
+  border: 3px solid black;
+  background-color: lavender;
+  color: rgb(102, 102, 232);
+  border-radius: 15px;
+}
+.badge-sale {
+  font-weight: 700;
+  border: 3px solid black;
+  background-color: lightpink;
+  color: rgb(108, 29, 41);
+  border-radius: 15px;
+}
+/* Controls styles for the card. */
+.card {
+  border: 3px solid black;
+  font-size: 15px;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  padding: 5px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  width: 300px;
+}
+.card-title {
+  font-size: large;
+  font-weight: bold;
+}
+.card-text {
+  font-weight: normal;
+}
+.card-link {
+  margin-left: 5px;
+  margin-right: 5px;
+}
