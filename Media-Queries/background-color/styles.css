@@ -1,0 +1,40 @@
+body {
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container::after {
+  content: "Default View";
+  display: block;
+  font-size: 2em;
+  text-align: center;
+  padding: 50px 0;
+  color: black;
+}
+
+/* Mobile View */
+@media only screen and (max-width: 599px) {
+  body {
+    background-color: blue;
+  }
+
+  .container::after {
+    content: "Mobile View";
+    color: white;
+  }
+}
+
+/* Tablet View */
+@media only screen and (min-width: 600px) and (max-width: 899px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .container::after {
+    content: "Tablet View";
+    color: White;
+  }
+}
+
+/* Desktop View */
